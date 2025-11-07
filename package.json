@@ -2,7 +2,7 @@
   "name": "fws-api",
   "version": "3.1.0",
   "engines": {
-    "node": "20.x"
+    "node": "22.x"
   },
   "description": "",
   "main": "index.js",
